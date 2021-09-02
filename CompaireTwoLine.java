@@ -10,8 +10,10 @@ public class CompaireTwoLine {
 		System.out.println("Enter the second length2");	
 	    double length2 = sc.nextDouble();	
 	System.out.println("the length is :" +length1);
+		
 	System.out.println("the length is :" +length2);
 	if (length1 == length2)
+		
 	{
 		
 		System.out.println("both are equl");
